@@ -33,10 +33,12 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
    git clone https://github.com/JavierTorres1193/python_test.git
   
 2. Navega al directorio del proyecto:
-  cd tu-repositorio
+   ```bash
+   cd tu-repositorio
 
-3. Ejecuta el script principal:
-  python main.py
+4. Ejecuta el script principal:
+   ```bash
+   python main.py
 
 ## 📄 Ejemplo de JSON de entrada
 
