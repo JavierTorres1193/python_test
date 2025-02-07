@@ -68,12 +68,14 @@ El archivo `product_data.json` debe tener la siguiente estructura:
     }
   ]
 }
+```
 
 ## 📤 Salida esperada
 
 El programa generará un JSON con la siguiente estructura para cada producto activo:
 
-``
+```
+
 {
   "averageRating": 3.12,
   "images": [
@@ -81,6 +83,8 @@ El programa generará un JSON con la siguiente estructura para cada producto act
   ],
   "meetingPoint": "Park central"
 }
+```
+
 ## 🧪 Pruebas
 
 Para ejecutar las pruebas unitarias, usa el siguiente comando:
