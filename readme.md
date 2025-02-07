@@ -28,16 +28,21 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1### Clona el repositorio:
-  git clone [[URL_DEL_REPOSITORIO]](https://github.com/JavierTorres1193/python_test.git
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/JavierTorres1193/python_test.git
   
-2### Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
   cd tu-repositorio
 
-3### Ejecuta el script principal:
+3. Ejecuta el script principal:
   python main.py
 
 ## 📄 Ejemplo de JSON de entrada
+
+El archivo `product_data.json` debe tener la siguiente estructura:
+
+```json
 {
   "products": [
     {
@@ -63,7 +68,12 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
     }
   ]
 }
+```markdown
 ## 📤 Salida esperada
+
+El programa generará un JSON con la siguiente estructura para cada producto activo:
+
+```json
 {
   "averageRating": 3.12,
   "images": [
