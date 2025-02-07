@@ -88,7 +88,7 @@ El programa generará un JSON con la siguiente estructura para cada producto act
 ```
 
 ## 🧪 Pruebas
-
+```bash
 Para ejecutar las pruebas unitarias, usa el siguiente comando:
 
 python -m unittest test_parser.py
