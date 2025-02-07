@@ -21,8 +21,6 @@ class Product:
         self._images = value
 
     def set_meetingPoint(self, value:str):
-        if not isinstance(value, str) or not value.strip():
-            raise ValueError("meetingPoint must be a non-empty string")
         self._meetingPoint = value.strip()
 
 
