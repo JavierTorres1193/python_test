@@ -26,7 +26,6 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 ## 🚀 Cómo ejecutar el proyecto
 
 1### Clona el repositorio:
-  ```bash
   git clone [[URL_DEL_REPOSITORIO]](https://github.com/JavierTorres1193/python_test.git
   
 2### Navega al directorio del proyecto:
@@ -73,5 +72,4 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 
 Para ejecutar las pruebas unitarias, usa el siguiente comando:
 
-```bash
 python -m unittest test_parser.py
