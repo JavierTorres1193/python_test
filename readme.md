@@ -42,7 +42,7 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 
 El archivo `product_data.json` debe tener la siguiente estructura:
 
-```json
+```
 {
   "products": [
     {
@@ -73,7 +73,7 @@ El archivo `product_data.json` debe tener la siguiente estructura:
 
 El programa generará un JSON con la siguiente estructura para cada producto activo:
 
-```json
+``
 {
   "averageRating": 3.12,
   "images": [
