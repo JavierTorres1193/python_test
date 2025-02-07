@@ -34,7 +34,7 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
   
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repositorio
+   cd python_test
 
 4. Ejecuta el script principal:
    ```bash
