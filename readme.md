@@ -30,7 +30,7 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/"tu usuario"/python_test.git
+   git clone https://github.com/JavierTorres1193/python_test.git
   
 2. Navega al directorio del proyecto:
    ```bash
