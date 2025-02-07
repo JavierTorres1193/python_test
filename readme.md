@@ -68,7 +68,7 @@ El archivo `product_data.json` debe tener la siguiente estructura:
     }
   ]
 }
-```markdown
+
 ## 📤 Salida esperada
 
 El programa generará un JSON con la siguiente estructura para cada producto activo:
