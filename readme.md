@@ -11,12 +11,13 @@ Este proyecto es un parser de productos que procesa un archivo JSON, filtra los 
 - **Generación de JSON**: Convierte los productos procesados a formato JSON.
 
 ## 📦 Estructura del proyecto
-├── main.py # Punto de entrada del programa
-├── parser.py # Lógica para parsear productos
-├── product.py # Clase Product con validaciones
-├── product_data.json # Archivo JSON de ejemplo con datos de productos
-├── README.md # Este archivo
-├── python_test.py #Archivo de tests unitarios
+.
+├── main.py ## Punto de entrada del programa
+├── parser.py ## Lógica para parsear productos
+├── product.py ## Clase Product con validaciones
+├── product_data.json ##  Archivo JSON de ejemplo con datos de productos
+├── README.md
+└── test_parser.py ## Archivo de test unitario
 
 ## 🛠️ Requisitos
 
